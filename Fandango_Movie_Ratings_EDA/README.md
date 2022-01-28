@@ -1,1 +1,1 @@
-## Fandago movie rating analysis- Conflict of Interest
+#Fandago movie ratings- Conflict of Interest: Exploratory Data Analysis
