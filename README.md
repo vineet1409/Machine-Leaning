@@ -1,2 +1,5 @@
 # Machine-Leaning
-Creating Data Science models
+
+### Exploratory Data Analysis
+### Feature Engineering and Model Selection
+### Creating Data Science/ML models
