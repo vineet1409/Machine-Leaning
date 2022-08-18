@@ -21,8 +21,8 @@ are among the items included in the data. A category_id field, which differs by 
 also included in the JSON file linked to the region.
 
 ### Tech Stack
-➔ Languages SQL, Python3
-➔ Services AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
+Languages: SQL, Python3
+Services: AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
 
 ### Key Takeaways
 Understanding the project Overview and Architecture
