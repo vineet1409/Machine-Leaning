@@ -5,6 +5,6 @@
 and IMDb score, and at least 30 fan reviews on Fandango.
 
 
-![image_1](Images/image_1.jpg)
-![image_2](Images/image_2.jpg)
-![image_3](Images/image_3.jpg)
+![image_1](https://github.com/vineet1409/Machine-Leaning/blob/master/Fandango_Movie_Ratings_EDA/Images/image_1.PNG)
+![image_2](https://github.com/vineet1409/Machine-Leaning/blob/master/Fandango_Movie_Ratings_EDA/Images/image_2.PNG)
+![image_3](https://github.com/vineet1409/Machine-Leaning/blob/master/Fandango_Movie_Ratings_EDA/Images/image_3.PNG)
