@@ -1,5 +1,4 @@
-# Collaborative Filtering Recommender System Project- Comparison of different model based and memory based methods to build 
-#recommendation system using collaborative filtering.
+# Collaborative Filtering Recommender System Project- Comparison of different model based and memory based methods to build recommendation system using collaborative filtering.
 
 ### Business Overview
 We often ask our friends with the same tastes to recommend products to use, movies to watch, and whatnot. 
